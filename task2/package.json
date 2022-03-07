@@ -2,7 +2,7 @@
   "name": "task2",
   "version": "1.0.0",
   "description": "",
-  "main": "sever_task2.js",
+  "main": "server_task2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
